@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on App development <br>🤝 I’m looking for help with App development <br>🌱 I’m currently learning MERN Stack development <br>💬 Ask me about anything <br>
+🔭 I’m currently working on App development <br>🤝 I’m looking for help with App development <br>🌱 I’m currently learning MERN Stack development <br>👨‍💻 Front End Developer <br> <br>💬 Ask me about anything <br>
 
 
 ## 🌐 Socials:
